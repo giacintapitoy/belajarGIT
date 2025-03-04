@@ -8,3 +8,11 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GIT
+
+### Perintah Git yang Digunakan
+- git branch
+- git checkout
+- git add
+- git commit
+- git merge
+- git push
